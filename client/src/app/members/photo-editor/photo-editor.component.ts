@@ -1,5 +1,4 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { timeStamp } from 'console';
 import { FileUploader, FileUploadModule } from 'ng2-file-upload';
 import { take } from 'rxjs/operators';
 import { Member } from 'src/app/_models/member';
